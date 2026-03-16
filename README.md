@@ -10,3 +10,7 @@ A partir da análise exploratória dos dados foi possível observar alguns ponto
 - O setor de turismo apresenta relevância em cidades litorâneas como Balneário Camboriú.
 
 Essas informações podem ajudar a compreender melhor a distribuição das atividades econômicas no estado de Santa Catarina.
+## Vídeo de apresentação
+
+Link do vídeo:
+https://youtu.be/Z-JMdmlbDJ0
